@@ -1,0 +1,40 @@
+{
+  "bills": [
+    {
+      "id": 1,
+      "numberFactor": "098738729828",
+      "dateFactor": "2/6/1402",
+      "nameCustomer": "علی منیری",
+      "priceFactor": "1800000000",
+      "typeFactor": "26363-علی منیری",
+      "howSend": "نقدی"
+    },
+    {
+      "id": 2,
+      "numberFactor": "098738729828",
+      "dateFactor": "2/6/1400",
+      "nameCustomer": "علی منیری",
+      "priceFactor": "1800000000",
+      "typeFactor": "26363-علی منیری",
+      "howSend": "نقدی"
+    },
+    {
+      "id": 3,
+      "numberFactor": "098738729828",
+      "dateFactor": "2/6/1403",
+      "nameCustomer": "علی منیری",
+      "priceFactor": "1800000000",
+      "typeFactor": "26363-علی منیری",
+      "howSend": "نقدی"
+    },
+    {
+      "id": 4,
+      "numberFactor": "098738729828",
+      "dateFactor": "2/6/1401",
+      "nameCustomer": "احمد عباسی",
+      "priceFactor": "1800000000",
+      "typeFactor": "26363-احمد عباسی",
+      "howSend": "نقدی"
+    }
+  ]
+}
